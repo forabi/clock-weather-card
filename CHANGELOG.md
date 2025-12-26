@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.10.1](https://github.com/forabi/clock-weather-card/compare/v2.10.0...v2.10.1) (2025-12-26)
+
+
+### Bug Fixes
+
+* trigger ci ([d429f46](https://github.com/forabi/clock-weather-card/commit/d429f46572376455455879c0d5e821571faef808))
+
 ## [2.10.0](https://github.com/forabi/clock-weather-card/compare/v2.9.2...v2.10.0) (2025-12-26)
 
 
