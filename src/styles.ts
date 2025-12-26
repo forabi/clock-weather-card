@@ -11,7 +11,7 @@ export default css`
     display: flex;
   }
 
-  clock-weather-card-today-end {
+  clock-weather-card-today-start {
     display: flex;
     width: 35%;
     align-items: center;
@@ -87,7 +87,7 @@ export default css`
   }
 
   forecast-temperature-bar-background {
-    inset-inline-start:0%;
+    inset-inline-start: 0%;
     inset-inline-end: 100%;
     width: 100%;
     opacity: 0.25;
