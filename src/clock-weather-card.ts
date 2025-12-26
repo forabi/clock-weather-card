@@ -226,9 +226,9 @@ export class ClockWeatherCard extends LitElement {
     const aqiString = this.localize('misc.aqi')
 
     return html`
-      <clock-weather-card-today-end>
+      <clock-weather-card-today-start>
         <img class="grow-img" src=${icon} />
-      </clock-weather-card-today-end>
+      </clock-weather-card-today-start>
       <clock-weather-card-today-end>
         <clock-weather-card-today-end-wrap>
           <clock-weather-card-today-end-wrap-top>
